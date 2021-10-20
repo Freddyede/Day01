@@ -1,0 +1,1 @@
+alias meteo='wget http://wttr.in/lyon';
