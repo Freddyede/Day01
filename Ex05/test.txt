@@ -1,0 +1,4 @@
+mercredi 20 octobre 2021, 16:48:31 (UTC+0200)
+apprenant tty7         2021-10-20 09:03 (:0)
+dateWhoLs.sh
+test.txt

@@ -1,1 +1,1 @@
-alias meteo='wget http://wttr.in/lyon';
+alias meteo='curl http://wttr.in/lyon';
