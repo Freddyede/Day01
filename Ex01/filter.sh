@@ -13,3 +13,5 @@ ls [^aeiouy]*
 ls -I "*.php"
 #TODO : [X] Afficher les noms de fichiers qui ne se terminent ni par .txt ni par .php
 ls -I "*.php" -I "*.txt"
+
+# tr awk (%) xargs rm
